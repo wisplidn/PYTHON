@@ -1,0 +1,11 @@
+﻿个性化习题集
+http://res.crossincode.com/wechat/exercise.html
+http://crossincode.com/vip/survey/
+编程题
+http://crossincode.com/oj/practice_list/
+廖雪峰 Python3 教程
+http://www.liaoxuefeng.com/
+
+
+ # -*- coding: utf-8 -*-
+
